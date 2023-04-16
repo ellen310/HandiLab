@@ -1,5 +1,5 @@
 ## 🌞 AR 과학실험 앱 "HandiLAB"
-[GooglePlay Store Page](https://store.steampowered.com/app/2365200/Loop/ "GooglePlay Store Page")  
+[GooglePlay Store Page](https://play.google.com/store/apps/details?id=com.DefaultCompany.UI_Test "GooglePlay Store Page")  
 AR기술을 통해 스마트폰으로 과학실험이 가능한 애플리케이션 "HandiLAB"입니다.
 
 <!--
